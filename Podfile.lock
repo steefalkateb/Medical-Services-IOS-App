@@ -1,0 +1,24 @@
+PODS:
+  - Koloda (5.0.1):
+    - pop (~> 1.0)
+  - pop (1.0.12)
+  - TransitionButton (0.5.3)
+
+DEPENDENCIES:
+  - Koloda
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - Koloda
+    - pop
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  Koloda: d07b9199a383abc5898b62aa945a599f5e7c0c4b
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  TransitionButton: 36283346e17c64775a1b3bc3a7a72940a367de1f
+
+PODFILE CHECKSUM: 2576d3ec70c1b1ee9ce971c755d4e0905b5958ce
+
+COCOAPODS: 1.11.2

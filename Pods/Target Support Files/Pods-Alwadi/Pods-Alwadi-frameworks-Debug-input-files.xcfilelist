@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Alwadi/Pods-Alwadi-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Koloda/Koloda.framework
+${BUILT_PRODUCTS_DIR}/TransitionButton/TransitionButton.framework
+${BUILT_PRODUCTS_DIR}/pop/pop.framework
