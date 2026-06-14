@@ -4,6 +4,23 @@ A native iOS application for displaying medical services — built with Swift & 
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/1.jpg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/2.jpg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/3.jpeg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="app/src/main/res/drawable/4.jpeg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/5.jpeg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/6.jpeg" width="100%"></td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Features
 
 - 🏥 Browse medical services and specializations
