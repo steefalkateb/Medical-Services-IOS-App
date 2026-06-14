@@ -8,14 +8,14 @@ A native iOS application for displaying medical services — built with Swift & 
 
 <table>
   <tr>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/1.jpg" width="100%"></td>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/2.jpg" width="100%"></td>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/3.jpeg" width="100%"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/1.jpg" width="100%" height="300" style="object-fit:cover"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/2.jpg" width="100%" height="300" style="object-fit:cover"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/3.jpeg" width="100%" height="300" style="object-fit:cover"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/4.jpeg" width="100%"></td>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/5.jpeg" width="100%"></td>
-    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/6.jpeg" width="100%"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/4.jpeg" width="100%" height="300" style="object-fit:cover"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/5.jpeg" width="100%" height="300" style="object-fit:cover"></td>
+    <td><img src="https://github.com/steefalkateb/Medical-Services-App/raw/main/app/src/main/res/drawable/6.jpeg" width="100%" height="300" style="object-fit:cover"></td>
   </tr>
 </table>
 
