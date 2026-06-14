@@ -1,23 +1,6 @@
-# 🤖 Medical Services App – Android
+# 🍎 Medical Services App – iOS
 
-A native Android application for displaying medical services — built with Java & Android Studio.
-
----
-
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td><img src="app/src/main/res/drawable/1.jpg" width="100%"></td>
-    <td><img src="app/src/main/res/drawable/2.jpg" width="100%"></td>
-    <td><img src="app/src/main/res/drawable/3.jpeg" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="app/src/main/res/drawable/4.jpeg" width="100%"></td>
-    <td><img src="app/src/main/res/drawable/5.jpeg" width="100%"></td>
-    <td><img src="app/src/main/res/drawable/6.jpeg" width="100%"></td>
-  </tr>
-</table>
+A native iOS application for displaying medical services — built with Swift & Xcode.
 
 ---
 
@@ -34,10 +17,10 @@ A native Android application for displaying medical services — built with Java
 
 | Technology | Usage |
 |------------|-------|
-| Java | Programming Language |
-| Android Studio | Development Environment |
+| Swift | Programming Language |
+| Xcode | Development Environment |
+| CocoaPods | Dependency Management |
 | REST API | Backend Communication |
-| XML | UI Layout |
 
 ---
 
