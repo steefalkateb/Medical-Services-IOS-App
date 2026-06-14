@@ -1,34 +1,47 @@
-# Medical Service App
+# 🤖 Medical Services App – Android
 
-<table border="0">
+A native Android application for displaying medical services — built with Java & Android Studio.
 
- <tr>
-    <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/b3079a3ea3467ff112f3b0b500b7a6e84b3ba51e/app/src/main/res/drawable/1.jpg" width="150">
-    </td>
-    <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/b3079a3ea3467ff112f3b0b500b7a6e84b3ba51e/app/src/main/res/drawable/2.jpg" width="150">
-    </td>
+---
 
-   <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/7b8f42d1ac5d665910a5b927f62e233bfdcc9c74/app/src/main/res/drawable/3.jpeg" width="150">
-    </td>
-    <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/7b8f42d1ac5d665910a5b927f62e233bfdcc9c74/app/src/main/res/drawable/4.jpeg" width="150">
-    </td>
-    <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/7b8f42d1ac5d665910a5b927f62e233bfdcc9c74/app/src/main/res/drawable/5.jpeg" width="150">
-    </td>
+## 📸 Screenshots
 
-   <td>
-      <img src="https://github.com/steefalkateb/Medical-Services-App/blob/7b8f42d1ac5d665910a5b927f62e233bfdcc9c74/app/src/main/res/drawable/6.jpeg" width="150">
-    </td>
- </tr>
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/1.jpg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/2.jpg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/3.jpeg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="app/src/main/res/drawable/4.jpeg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/5.jpeg" width="100%"></td>
+    <td><img src="app/src/main/res/drawable/6.jpeg" width="100%"></td>
+  </tr>
 </table>
 
-Description:
+---
 
-* Mobile application for displaying medical services.
-* Shows latest offers and clinic information.
-* Allows users to book an appointment.
-* Allows users to view doctors and medical staff easily.
+## ✨ Features
+
+- 🏥 Browse medical services and specializations
+- 👨‍⚕️ View doctors and medical staff profiles
+- 📅 Book appointments directly from the app
+- 🎁 View latest offers and clinic information
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Usage |
+|------------|-------|
+| Java | Programming Language |
+| Android Studio | Development Environment |
+| REST API | Backend Communication |
+| XML | UI Layout |
+
+---
+
+## 👨‍💻 Developer
+
+**Mustafa Alkateb** — Software Developer · Web & Mobile  
+🔗 [github.com/steefalkateb](https://github.com/steefalkateb)
